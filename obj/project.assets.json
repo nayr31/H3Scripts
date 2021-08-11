@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETFramework,Version=v3.5": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETFramework,Version=v3.5": []
   },
   "packageFolders": {
     "C:\\Users\\Ryan\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ryan\\Documents\\GitHub\\H3VR_Mods\\H3VR_Stuff\\H3VR_Stuff.csproj",
+      "projectUniqueName": "C:\\Users\\Ryan\\Documents\\GitHub\\H3VR_Stuff\\H3VR_Stuff.csproj",
       "projectName": "H3VR_Stuff",
-      "projectPath": "C:\\Users\\Ryan\\Documents\\GitHub\\H3VR_Mods\\H3VR_Stuff\\H3VR_Stuff.csproj",
+      "projectPath": "C:\\Users\\Ryan\\Documents\\GitHub\\H3VR_Stuff\\H3VR_Stuff.csproj",
       "packagesPath": "C:\\Users\\Ryan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ryan\\Documents\\GitHub\\H3VR_Mods\\H3VR_Stuff\\obj\\",
+      "outputPath": "C:\\Users\\Ryan\\Documents\\GitHub\\H3VR_Stuff\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net35"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net35": {
+          "targetAlias": "net35",
           "projectReferences": {}
         }
       },
@@ -43,23 +43,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
-        "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
+      "net35": {
+        "targetAlias": "net35",
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }

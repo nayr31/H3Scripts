@@ -1,0 +1,14 @@
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\bin\Debug\netcoreapp3.1\H3VR_Stuff.deps.json
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\bin\Debug\netcoreapp3.1\H3VR_Stuff.dll
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\bin\Debug\netcoreapp3.1\H3VR_Stuff.pdb
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\bin\Debug\netcoreapp3.1\Assembly-CSharp_publicized.dll
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\bin\Debug\netcoreapp3.1\UnityEngine.dll
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\bin\Debug\netcoreapp3.1\UnityEngine.UI.dll
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\obj\Debug\netcoreapp3.1\H3VR_Stuff.csprojAssemblyReference.cache
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\obj\Debug\netcoreapp3.1\H3VR_Stuff.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\obj\Debug\netcoreapp3.1\H3VR_Stuff.AssemblyInfo.cs
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\obj\Debug\netcoreapp3.1\H3VR_Stuff.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\obj\Debug\netcoreapp3.1\H3VR_Stuff.csproj.CopyComplete
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\obj\Debug\netcoreapp3.1\H3VR_Stuff.dll
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\obj\Debug\netcoreapp3.1\H3VR_Stuff.pdb
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\bin\Debug\netcoreapp3.1\RotateToPlayer.cs

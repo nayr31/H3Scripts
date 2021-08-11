@@ -1,0 +1,12 @@
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\bin\Release\net35\RotateToPlayer.cs
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\bin\Release\net35\H3VR_Stuff.dll
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\bin\Release\net35\H3VR_Stuff.pdb
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\bin\Release\net35\Assembly-CSharp_publicized.dll
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\bin\Release\net35\UnityEngine.dll
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\bin\Release\net35\UnityEngine.UI.dll
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\obj\Release\net35\H3VR_Stuff.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\obj\Release\net35\H3VR_Stuff.AssemblyInfo.cs
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\obj\Release\net35\H3VR_Stuff.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\obj\Release\net35\H3VR_Stuff.csproj.CopyComplete
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\obj\Release\net35\H3VR_Stuff.dll
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\obj\Release\net35\H3VR_Stuff.pdb
