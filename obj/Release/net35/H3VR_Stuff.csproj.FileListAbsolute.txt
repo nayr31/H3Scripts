@@ -10,3 +10,4 @@ C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\obj\Release\net35\H3VR_Stuff.csproj.Co
 C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\obj\Release\net35\H3VR_Stuff.csproj.CopyComplete
 C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\obj\Release\net35\H3VR_Stuff.dll
 C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\obj\Release\net35\H3VR_Stuff.pdb
+C:\Users\Ryan\Documents\GitHub\H3VR_Stuff\obj\Release\net35\H3VR_Stuff.csprojAssemblyReference.cache
